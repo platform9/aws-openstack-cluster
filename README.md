@@ -20,6 +20,12 @@ aws_access_key_id = "1234567890"
 aws_secret_access_key = "1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p"
 ```
 
+Record your Platform9 OpenStack.rc
+
+This can be collected from the Platform9 UI on the Access & Security section in the API Access Tab.
+
+Your Platfomr9 UI URL and Credentials should have been emailed to you.
+
 Usage
 -----
 ```bash
